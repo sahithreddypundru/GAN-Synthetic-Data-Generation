@@ -32,6 +32,27 @@ Synthetic cybersecurity traffic generation using the CICIDS 2017 dataset.
 ### Part 3
 Creative sketch generation using DCGANs trained on the Google QuickDraw dataset.
 
+## Datasets
+
+### 1. Medical Images
+The medical image dataset used for this coursework was obtained from MedMNIST.
+
+Dataset:
+https://medmnist.com/
+
+### 2. CICIDS 2017 (Cybersecurity)
+
+Kaggle:
+https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset/data
+
+Original CICIDS 2017 dataset:
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+### 3. Google QuickDraw
+
+QuickDraw Dataset:
+https://github.com/googlecreativelab/quickdraw-dataset
+
 ## Evaluation
 
 The generated samples were evaluated using:
