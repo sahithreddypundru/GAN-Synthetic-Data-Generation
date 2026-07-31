@@ -3,7 +3,7 @@ MSc coursework on Generative Adversarial Networks for medical imaging, cybersecu
 
 ## Overview
 
-This repository contains my MSc coursework on Generative Adversarial Networks (GANs).
+This repository contains my MSc coursework on Generative Adversarial Networks (GANs) for synthetic data generation across three different application domains:
 
 The assignment investigates the use of GANs for synthetic data generation across three application areas:
 
@@ -11,7 +11,9 @@ The assignment investigates the use of GANs for synthetic data generation across
 - Cybersecurity traffic generation using CICIDS 2017
 - Creative AI using the Google QuickDraw dataset
 
-## Technologies
+The assignment  evaluates how different GAN architectures perform when applied to image data and structured numerical data.
+
+## Technologies used 
 
 - Python
 - PyTorch
@@ -62,3 +64,10 @@ The generated samples were evaluated using:
 - Statistical comparison
 - Frechet Inception Distance (FID)
 
+
+## Key Results
+Experiment	                                Evaluation
+Medical Image GAN	                          Visual quality assessment
+CICIDS 2017 GAN	                            Feature correlation = 0.189
+QuickDraw Birthday Cake	                    FID = 184.61
+QuickDraw Cats                             	FID = 153.69
