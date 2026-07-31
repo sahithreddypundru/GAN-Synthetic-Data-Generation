@@ -64,10 +64,11 @@ The generated samples were evaluated using:
 - Statistical comparison
 - Frechet Inception Distance (FID)
 
-
 ## Key Results
-Experiment	                                Evaluation
-Medical Image GAN	                          Visual quality assessment
-CICIDS 2017 GAN	                            Feature correlation = 0.189
-QuickDraw Birthday Cake	                    FID = 184.61
-QuickDraw Cats                             	FID = 153.69
+
+| Experiment | Evaluation |
+|------------|------------|
+| Medical Image GAN | Visual quality assessment |
+| CICIDS 2017 GAN | Feature correlation = **0.189** |
+| QuickDraw Birthday Cake | **FID = 184.61** |
+| QuickDraw Cats | **FID = 153.69** |
