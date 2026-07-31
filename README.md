@@ -22,6 +22,17 @@ The assignment  evaluates how different GAN architectures perform when applied t
 - Matplotlib
 - Scikit-learn
 - TorchMetrics
+---
+
+## Installation
+
+Install the required Python packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
 
 ## Experiments
 
