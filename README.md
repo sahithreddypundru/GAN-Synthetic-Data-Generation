@@ -58,8 +58,7 @@ https://medmnist.com/
 Kaggle:
 https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset/data
 
-Original CICIDS 2017 dataset:
-https://www.unb.ca/cic/datasets/ids-2017.html
+ CICIDS 2017 dataset download form kaggle  like archive files zip 
 
 ### 3. Google QuickDraw
 
